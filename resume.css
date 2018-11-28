@@ -1,0 +1,303 @@
+body{ 
+    background-color: #fff8ed;
+}
+/* ul{
+    position: relative;
+    left: 500px;
+    bottom: 168px;
+    font-family: "Frank new", sans-serif;
+    font-size: 15px;
+    color:#042c6d;
+}
+h1{
+    position: relative;
+    left: 30px;
+    font-family: "Frank new", sans-serif;
+    font-size: 350%;
+    color:#042c6d;
+} */
+.firstletter{
+    font-family: "Frank new", sans-serif;
+    font-size: 700%;
+    color:#042c6d;
+    position: relative;
+    
+}
+p{
+    font-family: "Frank new", sans-serif;
+    color:#042c6d;
+    position: relative;
+    left: 16pt;
+}
+.text{
+    font-family: "Frank new", sans-serif;
+    font-size: 30px;
+    color:#042c6d;
+    /* position: relative;
+    bottom: 158pt;
+    left: 65pt; */
+}
+.body{
+    font-family: "Frank new", sans-serif;
+    font-size: 15px;
+    color:#042c6d;
+    width: 195px;
+    position: relative;
+    bottom: 168pt;
+    left: 70pt;
+}
+em{
+    font-size: 12px;
+}
+.firstletter1{
+    font-family: "Frank new", sans-serif;
+    font-size: 700%;
+    color:#042c6d;
+    position: relative;
+    left: 330pt;
+    bottom: 305pt;
+}
+.text2{
+    font-family: "Frank new", sans-serif;
+    font-size: 30px;
+    color:#042c6d;
+    position: relative;
+    left: 378pt;
+    bottom: 398pt;
+}
+.body2{
+    font-family: "Frank new", sans-serif;
+    font-size: 15px;
+    width: 195px;
+    color:#042c6d;
+    position: relative;
+    bottom: 410pt;
+    left: 380pt;
+}
+.circle {
+        border-radius: 50%;
+        width: 375px;
+        height: 375px;
+        border: 3px solid #042c6d;
+        position: relative;
+        bottom: 710pt;
+        left: 50pt;
+  }
+.firstletter2{
+    font-family: "Frank new", sans-serif;
+    font-size: 700%;
+    color:#042c6d;
+    position: relative;
+    left: 90pt;
+    bottom: 990pt;
+}
+.text3{
+    font-family: "Frank new", sans-serif;
+    font-size: 30px;
+    color:#042c6d;
+    position: relative;
+    left: 143pt;
+    bottom: 1070pt;
+}
+.body3{
+    font-family: "Frank new", sans-serif;
+    font-size: 20px;
+    width: 195px;
+    color:#042c6d;
+    position: relative;
+    bottom: 1060pt;
+    left: 143pt;
+}
+.illustratordot1{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    background-color: #042c6d;
+    position: relative;
+    bottom: 1065pt;
+    left: 145pt;
+}
+.illustratordot2{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    background-color: #042c6d;
+    position: relative;
+    bottom: 1078pt;
+    left: 165pt;
+}
+.illustratordot3{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    background-color: #042c6d;
+    position: relative;
+    bottom: 1090.5pt;
+    left: 185pt;
+}
+.illustratordot4{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    background-color: #042c6d;
+    position: relative;
+    bottom: 1103pt;
+    left: 205pt;
+}
+.illustratordot5{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    /* background-color: #042c6d; */
+    position: relative;
+    bottom: 1116pt;
+    left: 225pt;
+}
+.body4{
+    font-family: "Frank new", sans-serif;
+    font-size: 20px;
+    width: 195px;
+    color:#042c6d;
+    position: relative;
+    bottom: 1110pt;
+    left: 143pt;
+}
+.indesigndot1{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    background-color: #042c6d;
+    position: relative;
+    bottom: 1115pt;
+    left: 145pt;
+}
+.indesigndot2{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    background-color: #042c6d;
+    position: relative;
+    bottom: 1128pt;
+    left: 165pt;
+}
+.indesigndot3{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    background-color: #042c6d;
+    position: relative;
+    bottom: 1140.5pt;
+    left: 185pt;
+}
+.indesigndot4{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    /* background-color: #042c6d; */
+    position: relative;
+    bottom: 1153.5pt;
+    left: 205pt;
+}
+.indesigndot5{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    /* background-color: #042c6d; */
+    position: relative;
+    bottom: 1167pt;
+    left: 225pt;
+}
+.body5{
+    font-family: "Frank new", sans-serif;
+    font-size: 20px;
+    width: 195px;
+    color:#042c6d;
+    position: relative;
+    bottom: 1160pt;
+    left: 143pt;
+}
+.cssdot1{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    background-color: #042c6d;
+    position: relative;
+    bottom: 1170pt;
+    left: 145pt;
+}
+.cssdot2{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    background-color: #042c6d;
+    position: relative;
+    bottom: 1183pt;
+    left: 165pt;
+}
+.cssdot3{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    /* background-color: #042c6d; */
+    position: relative;
+    bottom: 1195.5pt;
+    left: 185pt;
+}
+.cssdot4{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    /* background-color: #042c6d; */
+    position: relative;
+    bottom: 1208pt;
+    left: 205pt;
+}
+.cssdot5{
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    border: 1px solid #042c6d;
+    /* background-color: #042c6d; */
+    position: relative;
+    bottom: 1222pt;
+    left: 225pt;
+}
+.firstletter3{
+    font-family: "Frank new", sans-serif;
+    font-size: 700%;
+    color:#042c6d;
+    position: relative;
+    left: 16pt;
+    bottom: 1190pt;
+}
+.text4{
+    font-family: "Frank new", sans-serif;
+    font-size: 30px;
+    color:#042c6d;
+    position: relative;
+    left: 64pt;
+    bottom: 1278pt;
+}
+.body6{
+    font-family: "Frank new", sans-serif;
+    font-size: 15px;
+    width: 620px;
+    color:#042c6d;
+    position: relative;
+    bottom: 1289pt;
+    left: 76pt;
+}
